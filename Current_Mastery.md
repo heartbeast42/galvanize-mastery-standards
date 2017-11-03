@@ -2,7 +2,7 @@
 Demonstrate learn-to-learn techniques
 * Write a blog post how you demonstrated a learn to learn technique
 
-Describe learn-to-learn techniques
+√Describe learn-to-learn techniques
 * Write a blog post about a learn to learn technique (this blog post does not need to be published)
 
 Demonstrate basic reading comprehension
