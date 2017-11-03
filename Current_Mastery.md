@@ -1,4 +1,27 @@
 ‘PAST’ DUE:
+Demonstrate learn-to-learn techniques
+* Write a blog post how you demonstrated a learn to learn technique
+
+Describe learn-to-learn techniques
+* Write a blog post about a learn to learn technique (this blog post does not need to be published)
+
+Demonstrate basic reading comprehension
+* Read the article at https://learn.galvanize.com/content/gSchool/fs-curriculum/g64wd/Overview.md and answer the following questions in a note below or direct message to an instructor.
+* Can problem solving skills be improved with practice?
+* At a high level, what do developers mean when they say that 'you need to be a good problem solver?'
+* The article mentions that problem solving is 'cyclical and fractal'. What does that mean?
+* What is a productive developer?
+* What are some common software patterns?
+
+Use problem-solving strategies to solve simple problems
+* Solve a logic puzzle using the Polyá method and take a photo of the solution
+* Write a paragraph about the solution and how you went about finding it.
+
+Demonstrate finding relevant information to a technical problem
+* Record a video of yourself doing searching for and locating relevant answers to technical problem that we supply.
+* Write a paragraph on an error that you had and how you solved it.
+
+
 √Version control an application using git
 * Initialize a Github repo
 * Add a file
@@ -31,31 +54,14 @@
 * Attend a meetup
 * Write a summary of the meetup that you attend
 
-Demonstrate learn-to-learn techniques
-* Write a blog post how you demonstrated a learn to learn technique
-
-Describe learn-to-learn techniques
-* Write a blog post how you demonstrated a learn to learn technique
 
 √Set simple short-term goals
 * Set a day long goal
 * Write a paragraph reflecting on how the goal went (succeeded or not) and what you would do differently next time
 
-Demonstrate basic reading comprehension
-* Read the article at https://learn.galvanize.com/content/gSchool/fs-curriculum/g64wd/Overview.md and answer the following questions in a note below or direct message to an instructor.
-* Can problem solving skills be improved with practice?
-* At a high level, what do developers mean when they say that 'you need to be a good problem solver?'
-* The article mentions that problem solving is 'cyclical and fractal'. What does that mean?
-* What is a productive developer?
-* What are some common software patterns?
 
-Use problem-solving strategies to solve simple problems
-* Solve a logic puzzle using the Polyá method and take a photo of the solution
-* Write a paragraph about the solution and how you went about finding it.
 
-Demonstrate finding relevant information to a technical problem
-* Record a video of yourself doing searching for and locating relevant answers to technical problem that we supply.
-* Write a paragraph on an error that you had and how you solved it.
+
 
 DUE:
 Collaborate with other developers using pair-programming
