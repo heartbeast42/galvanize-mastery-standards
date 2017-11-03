@@ -22,14 +22,14 @@ Demonstrate finding relevant information to a technical problem
 * Write a paragraph on an error that you had and how you solved it.
 
 
-√Version control an application using git
+√√√Version control an application using git
 * Initialize a Github repo
 * Add a file
 * Commit a file
 * Push a file to the Github repo
 * Show proof to an instructor (screenshot/video/1:1)
 
-√Manage and navigate a file system
+√√√√Manage and navigate a file system
 * Open the terminal
 * List directory contents
 * Print out the path to where you are
@@ -41,7 +41,7 @@ Demonstrate finding relevant information to a technical problem
 * Write text to a file
 * Show an instructor a video of you accomplishing these tasks
 
-√Post code publicly
+√√√Post code publicly
 * Create a local git repository on your Mac
 * Make a public repo in GitHub
 * Connect the GitHub repo to your local git repo
@@ -50,12 +50,12 @@ Demonstrate finding relevant information to a technical problem
 * Push the commit up to GitHub
 * Share the public repository with an instructor.
 
-√Attend meetups
+√√√Attend meetups
 * Attend a meetup
 * Write a summary of the meetup that you attend
 
 
-√Set simple short-term goals
+√√√Set simple short-term goals
 * Set a day long goal
 * Write a paragraph reflecting on how the goal went (succeeded or not) and what you would do differently next time
 
