@@ -1,0 +1,3 @@
+During galvanize reads, I did thin vertical slices following user stories closely and styled the stories as I went.
+
+I committed frequently and worked in feature branch work flows delivering to heroku in the process.  In fact before I did any user stories I deployed "Hello, World!" on heroku as a sanity check. 
