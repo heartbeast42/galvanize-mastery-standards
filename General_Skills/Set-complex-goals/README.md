@@ -1,6 +1,6 @@
-Setting complex goals with the "SMART" method
+#Setting complex goals with the "SMART" method
 
-I have decided to employ the smart method for todays goals.
+##I have decided to employ the smart method for todays goals.
 
 My goal for the day is
 goal for 2018-01-16_TUE
