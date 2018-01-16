@@ -1,12 +1,11 @@
 Setting complex goals with the "SMART" method
 
-I have chosen to demonstrate this standard in 2 ways 1 by setting a detailed short term goal and 2 by setting a longer term 1 month with sub goals.
-
 I have decided to employ the smart method for todays goals.
 
 My goal for the day is
 goal for 2018-01-16_TUE
-submit 4 mastery items before end of day
+  Title
+    submit 4 mastery items before end of day
   √ Specific - which items?
     * command line mystery
     * set complex goals
@@ -17,17 +16,8 @@ submit 4 mastery items before end of day
     * organize a clean browser window for the task, stay focused
   √ Realistic-stretch - this feels like a challenge that is doable
   √ Time-bound - end of day
-
-I intend to do a personal retro for this goal today last thing before I leave.
-
-longer term goal
-
-  Specific -
-  Measurable -
-  Actionable -
-  Realistic-stretch -
-  Time-bound -
-
+  Notes
+    I intend to do a personal retro for this goal today last thing before I leave.
 
 Other notes I sourced on SMART goal setting
 
@@ -46,4 +36,7 @@ A - actionable
 R - realistic-stretch
 T - time-bound
 
-After some thinking I feel like those words balance eachother out nicely
+After some thinking I feel like those words balance each other out nicely
+
+###FINIAL NOTE
+I am already finding that this way of doing things is vary helpful to me and I intend to continue this process through the end of the program as well as after the program ends.
