@@ -39,4 +39,4 @@ My edited personal version that I am choosing to employ is as follows
 After some thinking I feel like those words balance each other out nicely
 
 ###FINIAL NOTE
-I am already finding that this way of doing things is vary helpful to me and I intend to continue this process through the end of the program as well as after the program ends.
+I am already finding that this way of doing things is very helpful to me and I intend to continue this process through the end of the program as well as after the program ends.
