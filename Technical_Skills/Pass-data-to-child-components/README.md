@@ -9,3 +9,5 @@ The deployed url can be found here
 https://www.insecuritytheapp.com
 
 Data is successfully being passed from the component called `Gmaps` to the component called `MyMapComponent` on lines 80 and 81 and is brought into `MyMapComponent` on lines 41, 42, 49 and 50 as `props.x` and `props.y`.
+
+See screenshots
