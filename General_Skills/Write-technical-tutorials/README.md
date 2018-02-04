@@ -1,4 +1,4 @@
-# How to set up a GO environment for Node.js Devs
+operator# How to set up a GO environment for Node.js Devs
 
 For this tutorial I will be showing you how to set up a Go environment.
 I am assuming some familiarity with programing and specifically if you are
@@ -113,6 +113,6 @@ func main() {
 	ConsoleLog(sayHi)
 }
 ```
-Now lets run that with the same command as before `$ go run app.go` this time we got an error saying that ConsoleLog is not defined this is because according to the command we just entered go is not aware of any other files other than app.go. So we need to make GO aware of all the files in the directory by typing `$ go run *`
+notice that the assignment operator is different from JS. in go you can write `var sayHi = "Hello, World!` or `sayHi := "Hello, World!"` they are logically identical although the later is strongly preferred and suggested.  Now lets run that with the same command as before `$ go run app.go` this time we got an error saying that ConsoleLog is not defined this is because according to the command we just entered go is not aware of any other files other than app.go. So we need to make GO aware of all the files in the directory by typing `$ go run *`
 
-Welcome to GOLANG!  This tutorial
+Welcome to GOLANG!
