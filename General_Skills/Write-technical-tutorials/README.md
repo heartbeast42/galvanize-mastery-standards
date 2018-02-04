@@ -1,4 +1,4 @@
-operator# How to set up a GO environment for Node.js Devs
+# How to set up a GO environment for Node.js Devs
 
 For this tutorial I will be showing you how to set up a Go environment.
 I am assuming some familiarity with programing and specifically if you are
