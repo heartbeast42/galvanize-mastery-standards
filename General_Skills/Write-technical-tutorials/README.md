@@ -3,7 +3,7 @@
 For this tutorial I will be showing you how to set up a Go environment.
 I am assuming some familiarity with programing and specifically if you are
 coming from a JavaScript / Node.js or Python context or another similar
-interpreted language this tutorial is geared at you.
+interpreted language this tutorial is geared at you. This tutorial is by no means comprehensive and is intended to just get you off the ground and started in go, I hope it helps and inspires you to learn this wonderful language.  It should be noted that Go is a word with other meanings so when searching for Go related material us gophers use the term golang.  If you liked this or you hated it or you notice a problem with this tutorial and want to make me aware of it you can contact me on GitHub at this URL `https://github.com/ClarkWalker` I am also available for hire. :)
 
 NOTE: As of now this is Mac specific.  I plan on updating this for Linux soon after my school schedule clears up.  I may even include windows support if I get really ambitious.
 
@@ -114,3 +114,5 @@ func main() {
 }
 ```
 Now lets run that with the same command as before `$ go run app.go` this time we got an error saying that ConsoleLog is not defined this is because according to the command we just entered go is not aware of any other files other than app.go. So we need to make GO aware of all the files in the directory by typing `$ go run *`
+
+Welcome to GOLANG!  This tutorial
