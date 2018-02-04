@@ -5,6 +5,7 @@ function double(x) {
     return "argument must be of type number";
   }
 }
+
 module.exports = {
   double
 };
