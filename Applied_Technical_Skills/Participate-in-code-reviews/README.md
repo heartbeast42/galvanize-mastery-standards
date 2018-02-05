@@ -16,7 +16,7 @@ I am looking at Clark’s Q1 project Caesar Cypher.
 What I noticed initially was the organization of the files. Public and styling are neat and succinct.
 Each app file is appropriately named, and there is quite a bit going on.
 This is an encryption app so the code immediately doesn’t ring out what’s happening. However the way things are named help me follow the code.
-There are notes in the app that tell you when and how the encryption is happening based on inputs. The usage of local variables make it easier to see what is happening inside each function making it easier for a partner to collaborate, update, or take over the project.
-
+There are notes in the app that tell you when and how the encryption is happening based on inputs. The usage of local variables make it easier to see what is happening inside each function making it easier for a partner to collaborate, update, or take over the project. I would say pseudo code in your functions so we know what is happening for a non crypto-engineer. on line on line 42 where the "cypher" code happens. Is that making a new
 
 My reflection on her thoughts on my code and what I learned
+I like her feedback on pseudo-coding my work where it might be confusing I would really like to write readable maintainable code that speaks for it self so I take that feed back to heart and I wouldn't have known that if she hadn't shared her perspective.
