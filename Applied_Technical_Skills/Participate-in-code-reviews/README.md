@@ -12,6 +12,11 @@ My thoughts on Shayla's code.
 
 
 Her thoughts on my code.
+I am looking at Clark’s Q1 project Caesar Cypher.
+What I noticed initially was the organization of the files. Public and styling are neat and succinct.
+Each app file is appropriately named, and there is quite a bit going on.
+This is an encryption app so the code immediately doesn’t ring out what’s happening. However the way things are named help me follow the code.
+There are notes in the app that tell you when and how the encryption is happening based on inputs. The usage of local variables make it easier to see what is happening inside each function making it easier for a partner to collaborate, update, or take over the project.
 
 
 My reflection on her thoughts on my code and what I learned
