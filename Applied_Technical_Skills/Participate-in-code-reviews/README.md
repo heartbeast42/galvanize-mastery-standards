@@ -4,14 +4,14 @@ Shayla is also reviewing my code from my Q1 project.  That repo can be found her
 
 My thoughts on her code.
 * Things I liked
-  * 1. I opened up app.js and the first thing that struck me was how clean the code looked.  
-  * 2. It flows nicely, there is space between things to make it more readable and separate ideas.
-  * 3. Another thing I liked is the naming conventions seem really intuitive and well thought out, I love that I want to write code like that and work with people who write clean code like that.
+  * 1. I opened up app.js and the first thing that struck me was how clean the code looked.  It flows nicely, there is space between things to make it more readable and separate ideas.
+  * 2. Another thing I liked is the naming conventions seem really intuitive and well thought out, I love that I want to write code like that and work with people who write clean code like that.
+  * 3. document.createElement('el').  I Don't think that I have ever used that and I think it's pretty cool because it reminds me that you can dynamically update the DOM in an SPA kind of way with raw DOM manipulation.  I think that deepens my understanding of front end frameworks and such.
 * Somthing I thought could be improved
-  * Global variables were used.
+  * Global variables were declared at the top of app.js, I don't think that we learned about that at that point so it's understandable.  :)
 
 
 Her thoughts on my code.
 
 
-My re
+My reflection on her thoughts on my code and what I learned
